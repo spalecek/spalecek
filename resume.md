@@ -6,6 +6,6 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 Sierra Palecek\
-Northeastern 2023-2027 - Computer Science & Criminal Justice BS\
+Northeastern exp. 2027 - Computer Science & Criminal Justice BS\
 University of New York in Prague - Fall 2023, study abroad program\
 San Domenico High School 2022 - High School Diploma}
